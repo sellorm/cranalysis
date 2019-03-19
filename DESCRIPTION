@@ -1,0 +1,16 @@
+Package: cranalysis
+Type: Package
+Title: Tools For Analysing CRAN Dependencies
+Version: 0.1.0
+Authors@R: c(
+    person("Mark", "Sellors", , "rstuff@5vcc.com", c("aut", "cre"))
+    )
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+URL: https://github.com/sellorm/cranalysis
+BugReports: https://github.com/sellorm/cranalysis/issues
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
