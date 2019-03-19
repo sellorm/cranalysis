@@ -23,7 +23,7 @@ Update the cached PACKAGES.rds file:
 update_cache()
 ```
 
-The get a list of imports for a given list of packages:
+Then get a list of imports for a given list of packages:
 
 ``` r
 get_imports(c("plumber", "rmarkdown", "shiny"))
