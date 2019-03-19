@@ -5,8 +5,11 @@ Version: 0.1.0
 Authors@R: c(
     person("Mark", "Sellors", , "rstuff@5vcc.com", c("aut", "cre"))
     )
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: The goal of cranalysis is to provide a few handy functions to
+    analyse CRAN's PACKAGES file. Initially this is focused on providing a
+    list of package dependencies for a given list of packages. This was
+    hastily thrown together and needs quite a lot more work to make it
+    robust and introduce some tests etc.
 URL: https://github.com/sellorm/cranalysis
 BugReports: https://github.com/sellorm/cranalysis/issues
 License: MIT + file LICENSE
